@@ -1,4 +1,4 @@
-# CGDS recommendations
+# CGDS Recommendations
 
 ## IDE
 

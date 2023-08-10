@@ -78,7 +78,7 @@ target/
 .DS_Store
 
 # exclude data from source control by default
-data/
+# data/
 
 #snakemake
 .snakemake/
