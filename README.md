@@ -21,6 +21,21 @@ gh repo create "uab-cgds-worthey/${NEW_REPONAME}" \
 > `gh` is already installed in Cheaha. You can add it to the OS PATH by opening file `~/.bashrc` and adding line `export PATH="$PATH:/data/project/worthey_lab/tools/github_cli/v2.32.1/gh_2.32.1_linux_amd64/bin/"`.
 
 
+# :pencil2: Title
+
+:pencil2: Add description of the project here.
+
+## Requirements
+
+:pencil2: What are the requirements to install and run the project.
+
+## How to install
+
+:pencil2: Add installation instructions here
+
+## How to run
+
+:pencil2: Add run instructions here
 
 
 ## Repo's directory structure
