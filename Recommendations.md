@@ -1,3 +1,5 @@
+# CGDS recommendations
+
 ## IDE
 
 An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) is a
@@ -7,7 +9,7 @@ make sure IDE of your choice is as capable as those in our list.
 
 * [Visual Studio Code](https://code.visualstudio.com/)
   * Visual Studio Code (or VScode) is a general purpose IDE and is the primary recommendation for most use-cases at
-    CGDS. 
+    CGDS.
   * Extensions/plugins can be installed as per your needs to make VSCode more powerful. Here are the plugins that would
     form a good starter-pack at CGDS. Note that [EditorConfig for VS
     Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) plugin is necessary to use thie
