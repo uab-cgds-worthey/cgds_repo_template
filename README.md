@@ -29,3 +29,6 @@ cgds_repo_template
 └── logs              <- Stores log files
 ```
 
+## Contributing
+
+We welcome contributions! [See the docs for guidelines](./CONTRIBUTING.md).
