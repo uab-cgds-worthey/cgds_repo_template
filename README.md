@@ -2,10 +2,10 @@
 
 ### Via commandline
 
-This requires [github CLI tool `gh`](https://cli.github.com/). It is available in Cheaha at `/data/project/worthey_lab/tools/github_cli/v2.32.1/gh_2.32.1_linux_amd64/bin/gh`. You may want to add this to `~/.bashrc` in Cheaha by adding line `export PATH="$PATH:/data/project/worthey_lab/tools/github_cli/v2.32.1/gh_2.32.1_linux_amd64/bin/"`.
+This requires [github CLI tool `gh`](https://cli.github.com/). See the note below on how to use `gh` in Cheaha.
 
 ```sh
-NEW_REPONAME="your_new_repo_name"
+NEW_REPONAME="your_new_repo_name2"
 gh repo create "uab-cgds-worthey/${NEW_REPONAME}" \
   --template "uab-cgds-worthey/cgds_repo_template" \
   --clone --private
