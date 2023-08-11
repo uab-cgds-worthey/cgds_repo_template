@@ -8,9 +8,10 @@ jobs:
   markdown-linting:
     name: Markdown linting
     runs-on: ubuntu-22.04
-    uses: avto-dev/markdown-lint@v1
-      with:
-        config: ".markdownlint.json"
+    steps:
+      - uses: avto-dev/markdown-lint@v1
+        with:
+          config: ".markdownlint.json"
 
   markdown-check-links:
     runs-on: ubuntu-22.04
