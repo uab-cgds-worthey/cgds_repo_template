@@ -1,0 +1,12 @@
+name: Perform linting - Markdown
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
