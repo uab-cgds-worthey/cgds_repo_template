@@ -33,4 +33,7 @@ make sure IDE of your choice is as capable as those in our list.
     | [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table)         | Large markdown table? Create it in Excel and then use this plugin to paste in markdown table format. |
 
 * [RStudio](https://posit.co/products/open-source/rstudio/)
-     * Primarily for R users
+  * Primarily for R users
+
+
+folders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please do
