@@ -2,4 +2,4 @@
 set -euo pipefail
 
 x=2
-echo x+y
+echo $x $y

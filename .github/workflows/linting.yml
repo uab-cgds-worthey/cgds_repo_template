@@ -1,4 +1,4 @@
-name: Linting- Markdown
+name: Linting- Markdown,Shell
 
 on:
   push:
