@@ -19,7 +19,7 @@ jobs:
           files: .
           config_file: ".markdownlint.json"
           dot: true
-          ignore_files: .git/|.github/
+          ignore_path: ".git/ .github/"
 
 
   markdown-check-links:
