@@ -1,6 +1,5 @@
 # License
 
-
 ## When does a license need to be added
 
 Before the repo goes public. It may also be necessary when shared with non-CGDS members.
