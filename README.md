@@ -1,4 +1,6 @@
+<!-- markdown-link-check-disable -->
 [![Perform linting - Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml/badge.svg)](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml)
+<!-- markdown-link-check-enable -->
 
 # CGDS Repository Template
 
