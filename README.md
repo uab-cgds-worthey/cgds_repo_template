@@ -1,8 +1,9 @@
-<!-- markdown-link-check-disable -->
-[![Perform linting - Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml/badge.svg)](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml)
-<!-- markdown-link-check-enable -->
-
 # CGDS Repository Template
+
+<!-- markdown-link-check-disable -->
+[![Perform linting -
+Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml/badge.svg)](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml)
+<!-- markdown-link-check-enable -->
 
 ## Create repo from the template
 
@@ -21,9 +22,8 @@ gh repo create "uab-cgds-worthey/${NEW_REPONAME}" \
     --clone --private
 ```
 
-> [!NOTE]
-> `gh` is already installed in Cheaha. You can add it to the OS PATH by opening file `~/.bashrc` and adding line `export PATH="$PATH:/data/project/worthey_lab/tools/github_cli/v2.32.1/gh_2.32.1_linux_amd64/bin/"`.
-
+> [!NOTE] `gh` is already installed in Cheaha. You can add it to the OS PATH by opening file `~/.bashrc` and adding line
+> `export PATH="$PATH:/data/project/worthey_lab/tools/github_cli/v2.32.1/gh_2.32.1_linux_amd64/bin/"`.
 
 # :pencil2: Title
 
@@ -40,7 +40,6 @@ gh repo create "uab-cgds-worthey/${NEW_REPONAME}" \
 ## How to run
 
 :pencil2: Add run instructions here
-
 
 ## Repo's directory structure
 ------------

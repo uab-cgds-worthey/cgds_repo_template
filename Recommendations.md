@@ -34,6 +34,3 @@ make sure IDE of your choice is as capable as those in our list.
 
 * [RStudio](https://posit.co/products/open-source/rstudio/)
   * Primarily for R users
-
-
-folders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please dofolders in user-friendly manner. Our recommendations are listed below. You are not required to use them but please do
