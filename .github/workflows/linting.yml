@@ -7,13 +7,15 @@ on:
 jobs:
   markdown-linting:
     name: Markdown linting
-    uses: nosborn/github-action-markdown-cli@v3.3.0
-    with:
-      files: .
-      config_file: .markdownlint.json
-      dot: true
-      ignore_files: .git/*
-    
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: nosborn/github-action-markdown-cli@v3.3.0
+        with:
+          files: .
+          config_file: .markdownlint.json
+          dot: true
+          ignore_files: .git/*
+ 
     # runs-on: ubuntu-22.04
     # steps:
     #   - uses: avto-dev/markdown-lint@v1
