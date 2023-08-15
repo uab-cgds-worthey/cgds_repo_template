@@ -55,21 +55,38 @@ cgds_repo_template
 │
 ├── README.md
 │
-├── Recommendations.md <- ????
+├── .gitignore        <- Specifies intentionally untracked files to ignore by git
+│
+├── .editorconfig     <- Helps maintain consistent coding styles for multiple users working on the same project across
+│                        various editors and IDEs. See https://editorconfig.org/ for more info
+│
+├── .markdownlint.json  <- Markdown linting config
+│
+├── .pylintrc         <- Python linting config
 │
 ├── configs           <- Dir to store config files. Conda env, requirements.txt, etc.
 │
-├── data
+├── data              <- Dir structure from http://drivendata.github.io/cookiecutter-data-science. Please give it a read.
 │   ├── external      <- Data from third party sources
 │   ├── interim       <- Intermediate data that has been transformed
 │   ├── processed     <- The final, canonical datasets and results
 │   └── raw           <- The original, immutable data dump
 │
-├── notebooks         <- Jupyter, R Markdown notebooks, etc.
+├── notebooks         <- Dir to store Jupyter, R Markdown notebooks, etc.
 │
-├── src               <- Source code for use in this project
+├── src               <- Dir to store source code for use in this project
 │
-└── logs              <- Stores log files
+├── .github
+│   ├── ISSUE_TEMPLATE            <- Github issue templates
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE     <- Github PR templates
+│   │   └── pull_request_template.md
+│   └── workflows                 <- Github actions workflows for automated processes (eg. linting, etc)
+│       └── linting.yml
+│
+└── logs              <- Dir to store log files
+
 ```
 
 ## Contributing
