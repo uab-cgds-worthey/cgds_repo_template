@@ -45,7 +45,7 @@ gh repo create "uab-cgds-worthey/${NEW_REPONAME}" \
 ------------
 
 ```sh
-$ tree cgds_repo_template/
+$ tree -a cgds_repo_template/
 cgds_repo_template
 ├── CHANGELOG.md      <- Log of changes made
 │
