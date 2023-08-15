@@ -5,7 +5,6 @@
 Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml/badge.svg)](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflows/linting.yml)
 <!-- markdown-link-check-enable -->
 
-
 :pencil2: Add description of the project here.
 
 ## Requirements
@@ -21,7 +20,6 @@ Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflo
 :pencil2: Add run instructions here
 
 ## Repo's directory structure
-------------
 
 ```sh
 $ tree -a cgds_repo_template/
