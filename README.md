@@ -13,13 +13,15 @@ Markdown](https://github.com/uab-cgds-worthey/cgds_repo_template/actions/workflo
 
 ## How to install
 
-:pencil2: Add installation instructions here
+:pencil2: Add installation instructions here.
 
 ## How to run
 
-:pencil2: Add run instructions here
+:pencil2: Add run instructions here. This includes necessary configurations as well as the commands used.
 
 ## Repo's directory structure
+
+The directory structure below shows the nature of files/directories used in this repo.
 
 ```sh
 $ tree -a cgds_repo_template/
