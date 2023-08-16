@@ -18,8 +18,8 @@ jobs:
         with:
           files: .
           config_file: ".markdownlint.json"
-          dot: true
-          ignore_files: '".git*/**"'
+          dot: false
+          # ignore_files: '".git*/**"'
 
 
   markdown-check-links:
