@@ -51,6 +51,8 @@ cgds_repo_template
 │   ├── processed     <- The final, canonical datasets and results
 │   └── raw           <- The original, immutable data dump
 │
+├── docs              <- Dir to store documentation.
+│
 ├── notebooks         <- Dir to store Jupyter, R Markdown notebooks, etc.
 │
 ├── src               <- Dir to store source code for use in this project
