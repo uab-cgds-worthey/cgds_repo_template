@@ -6,4 +6,5 @@
 
 ## Examples
 
-[See QuaC](https://github.com/uab-cgds-worthey/quac/blob/master/.test/README.md) for an example.
+[See QuaC](https://github.com/uab-cgds-worthey/quac/blob/master/.test/README.md) for an example on how to document test
+datasets.
