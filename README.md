@@ -66,6 +66,9 @@ cgds_repo_template
 │   └── workflows                 <- Github actions workflows for automated processes (eg. linting, etc)
 │       └── linting.yml
 │
+├── .test             <- Dir to store test datasets
+│   └── README.md
+│
 └── logs              <- Dir to store log files
 
 ```
