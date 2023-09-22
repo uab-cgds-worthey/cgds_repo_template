@@ -15,6 +15,8 @@ No.
 
 ## What does it mean when a repo has no license
 
+<!-- markdown-link-check-disable -->
 When there is no license, then all rights are reserved and it is not Open Source or Free. You cannot modify or
 redistribute this code without explicit permission from the copyright holder.
 [[Source](https://opensource.stackexchange.com/a/1721)]
+<!-- markdown-link-check-enable -->
